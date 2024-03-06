@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Goal Generator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Goal Generator</h1>
+        <form id="goalForm">
+            <div class="goal-form">
+                <label for="goalInput">Goal:</label>
+                <input type="text" id="goalInput" required>
+            </div>
+            <div class="goal-form">
+                <label for="deadlineInput">Deadline:</label>
+                <input type="datetime-local" id="deadlineInput" required>
+            </div>
+            <button type="submit">Add</button>
+        </form>
+        <ul id="goalList"></ul>
+        <button onclick="location.href='index.html';">Back to Home</button>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/firebase/7.14.1-0/firebase.js"></script>
+    <script src="./mail.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
+
