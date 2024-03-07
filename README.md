@@ -1,7 +1,8 @@
 # Pomodoro
 
-It is a Pomodoro Timer web application built using HTML, CSS, and JavaScript. In addition to the basic Pomodoro Timer functionality, it includes extra features such as a water reminder and a task generator. 
+It is a Pomodoro Timer web application built using HTML, CSS, and JavaScript. The backend connectivtity is done using FireBase. In addition to the basic Pomodoro Timer functionality, it includes extra features such as a water reminder and a task generator. 
 The Pomodoro Timer helps users manage their time effectively by breaking work into intervals , separated by short breaks. The timer dynamically displays minutes and seconds and provides controls to start, pause, and reset the timer.
+FireBase is used to store the database of the goals and deadlines inputted by the user.
 
 Key features :
 
@@ -9,7 +10,7 @@ Key features :
 
 -Water Reminder: This feature notifies users to drink water at regular intervals to stay hydrated during work sessions. Users can set the interval for water reminders according to their preferences.
 
--Task Generator: This allows users to input their daily tasks, including the day, time, and activity making it easy for users to organize and manage their tasks alongside their work sessions.
+-Goal Generator: This allows users to input their daily tasks, including the day, time, and activity making it easy for users to organize and manage their tasks alongside their work sessions.
 
-
+-Alert: This alerts the user 10 seconds before the timer goes off.
 
