@@ -45,7 +45,7 @@ function updateTimer() {
     if ((minutes * 60 + seconds) % waterReminderInterval === 0 && (minutes * 60 + seconds) !== 0) {
         showWaterReminder();
     }
-    if (minutes === 0 && seconds <= 10) {
+    if (minutes === 0 && seconds <= 8) {
         playTimerSound();
     }
 }
@@ -116,16 +116,16 @@ function showBreakNotification() {
     notificationSound.play();
 
     // Display notification message
-    const notification = document.createElement('span');
+    const notification = document.createElement('div');
     notification.className = 'break-notification';
     notification.textContent = 'Time to take a break!';
-    notification.appendChild(notification);
     document.body.appendChild(notification);
     
     setTimeout(() => {
         document.body.removeChild(notification);
     }, 3000); // Remove notification after 3 seconds
 }
+
     
 
 
