@@ -16,5 +16,18 @@ FireBase is used to store the database of the goals and deadlines inputted by th
 
 -Break notification: Shows a break notification after the timer goes off.
 
+# Timer:
+
 ![Screenshot 2024-03-07 110017](https://github.com/nandanajm2003/Pomodoro/assets/134188984/592be3a0-e6cf-49cc-a11e-1da71d8d9be4)
 
+# Goal Generator:
+
+![Screenshot 2024-03-07 110104](https://github.com/nandanajm2003/Pomodoro/assets/134188984/bf996cd1-3ec8-4d2a-9b63-0e27a1106caa)
+
+# Saving goal to database(Firebase)
+
+![Screenshot 2024-03-07 110204](https://github.com/nandanajm2003/Pomodoro/assets/134188984/0f21bb9a-d93c-4861-b6e0-6dd858ccad1c)
+
+# Retrieivng and listing goals 
+
+![Screenshot 2024-03-07 110212](https://github.com/nandanajm2003/Pomodoro/assets/134188984/651aac0b-ee2f-492e-8498-89ea259c78a4)
