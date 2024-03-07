@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pomodoro Timer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Pomodoro Timer</h1>
+        <div class="input-time">
+            <label for="minutesInput"><b>Enter minutes:</b></label>
+            <input type="number" id="minutesInput" min="0" value="25">
+            <br>
+            <br>
+            <button id="setTime">Set Time</button>
+        </div>
+        <br>
+        <div class="input-interval">
+            <label for="intervalInput"><b>Set Water Reminder</b></label>
+            <input type="number" id="intervalInput" min="1" value="30">
+        </div>
+        <br>
+        <div class="timer">
+            <div id="minutes">00</div>
+            <div id="separator">:</div>
+            <div id="seconds">00</div>
+        </div>
+        <br>
+        <br>
+        <div class="controls">
+            <button id="start">Start</button>
+            <button id="pause">Pause</button>
+            <button id="reset">Reset</button>
+        </div>
+        <button onclick="location.href='goal_generator.html';">Goal Generator</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
