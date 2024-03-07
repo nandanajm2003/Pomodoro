@@ -4,7 +4,7 @@ It is a Pomodoro Timer web application built using HTML, CSS, and JavaScript. Th
 The Pomodoro Timer helps users manage their time effectively by breaking work into intervals , separated by short breaks. The timer dynamically displays minutes and seconds and provides controls to start, pause, and reset the timer.
 FireBase is used to store the database of the goals and deadlines inputted by the user.
 
-# Key Features :
+## Key Features :
 
 -Pomodoro Timer: The core functionality of the project is a timer that follows the Pomodoro Technique. Users can set the duration of work intervals and breaks, and the timer will count down the time remaining for each interval.
 
