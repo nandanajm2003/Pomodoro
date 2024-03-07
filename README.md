@@ -36,3 +36,6 @@ FireBase is used to store the database of the goals and deadlines inputted by th
 
 ![image](https://github.com/nandanajm2003/Pomodoro/assets/134188984/f020f0c3-b0cf-4145-93ab-075a9ce1bdd9)
 
+## demo video 
+
+https://www.loom.com/share/dc6fb666d3d74c6dba36caf406756987?sid=034f63f4-b532-4a02-bac2-9b297721114e
