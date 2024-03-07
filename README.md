@@ -6,15 +6,15 @@ FireBase is used to store the database of the goals and deadlines inputted by th
 
 ## Key Features :
 
--Pomodoro Timer: The core functionality of the project is a timer that follows the Pomodoro Technique. Users can set the duration of work intervals and breaks, and the timer will count down the time remaining for each interval.
+->Pomodoro Timer: The core functionality of the project is a timer that follows the Pomodoro Technique. Users can set the duration of work intervals and breaks, and the timer will count down the time remaining for each interval.
 
--Water Reminder: This feature notifies users to drink water at regular intervals to stay hydrated during work sessions. Users can set the interval for water reminders according to their preferences.
+->Water Reminder: This feature notifies users to drink water at regular intervals to stay hydrated during work sessions. Users can set the interval for water reminders according to their preferences.
 
--Goal Generator: This allows users to input their daily tasks, including the day, time, and activity making it easy for users to organize and manage their tasks alongside their work sessions.
+->Goal Generator: This allows users to input their daily tasks, including the day, time, and activity making it easy for users to organize and manage their tasks alongside their work sessions.
 
--Alert: This alerts the user 10 seconds before the timer goes off.
+->Alert: This alerts the user 10 seconds before the timer goes off.
 
--Break notification: Shows a break notification after the timer goes off.
+->Break notification: Shows a break notification after the timer goes off.
 
 ## Timer:
 
