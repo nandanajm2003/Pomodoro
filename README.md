@@ -16,3 +16,5 @@ FireBase is used to store the database of the goals and deadlines inputted by th
 
 -Break notification: Shows a break notification after the timer goes off.
 
+![Screenshot 2024-03-07 110017](https://github.com/nandanajm2003/Pomodoro/assets/134188984/592be3a0-e6cf-49cc-a11e-1da71d8d9be4)
+
