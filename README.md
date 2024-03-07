@@ -14,3 +14,5 @@ FireBase is used to store the database of the goals and deadlines inputted by th
 
 -Alert: This alerts the user 10 seconds before the timer goes off.
 
+-Break notification: Shows a break notification after the timer goes off.
+
