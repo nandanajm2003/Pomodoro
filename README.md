@@ -1,4 +1,4 @@
-# Zen-Zestful(pomodoro timer)
+# Zen-Zestful (Pomodoro Timer)
 
 It is a Pomodoro Timer web application built using HTML, CSS, and JavaScript. The backend connectivtity is done using FireBase. In addition to the basic Pomodoro Timer functionality, it includes extra features such as a water reminder and a task generator. 
 The Pomodoro Timer helps users manage their time effectively by breaking work into intervals , separated by short breaks. The timer dynamically displays minutes and seconds and provides controls to start, pause, and reset the timer.
